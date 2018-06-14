@@ -71,7 +71,7 @@ int main()
 									}
 									if (x == 0)
 									{
-										cout << "Дудук" << endl;
+										cout << "Дудук" << endl;//
 									}
 								}
 							}
